@@ -1,9 +1,5 @@
-.poiret-one-regular {
-    font-family: "Poiret One", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
   @import url('https://fonts.googleapis.com/css2?family=Poiret+One@display=swap');
+
   body{
     font-family:'Poiret One', sans-serif;
     overflow:hidden;
@@ -43,5 +39,5 @@
     }
   }
   @media(max-width:480px){
-    font-size:4rem;;
+    font-size: 4rem;;
   }
